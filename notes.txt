@@ -4,3 +4,4 @@ GitHub is where those snapshots live in the cloud.
 Day 2: Stage → Commit → Push is the core workflow
 
 Conflict1
+Conflict2
